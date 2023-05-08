@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @crypto-khalid
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning blockchain development
-- 💞️ I’m looking to collaborate on blockchain development
+- 👋 Hi, I’m @khalid-hameed
+- 👀 I’m interested in Learning
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me : khalid26024@gmail.com
 
 <!---
